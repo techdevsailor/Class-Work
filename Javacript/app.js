@@ -9,11 +9,15 @@ console.log("Abubakar")
 //  var city ="karachi"
 //  city = "Lahore" 
 
+//  let students = ['Abubakar', 'Jashwant', 'Numan']
 
+//  console.log(students);
 
- let students = ['Abubakar', 'Jashwant', 'Numan']
+ function math(x,y,z){
+    return x-y+z
 
- console.log(students);
+ }
+console.log(math(10,20,65))
  
  
 
