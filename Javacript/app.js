@@ -1,4 +1,4 @@
-console.log("Abubakar")
+// console.log("Abubakar")
 //  // Primitive Data types 
 //  name = "Knza" // string 
 //  sum = 3+4 // numbers 
@@ -13,13 +13,16 @@ console.log("Abubakar")
 
 //  console.log(students);
 
- function math(x,y,z){
-    return x-y+z
+//  function math(x,y,z){
+//     return x-y+z
 
- }
-console.log(math(10,20,65))
+//  }
+// console.log(math(10,20,65))
  
  
+
+
+
 
 
 

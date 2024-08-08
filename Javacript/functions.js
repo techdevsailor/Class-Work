@@ -46,11 +46,50 @@
 //             // })
 
 //     //Loops.......
-// for(let i = 0; i < 5: i++){
+// for(let i = 0; i < 5; i++){
 //     console.log("Number:" + i)
 
-// }
+// // }
 
+
+// let string = "my name is abubakar"
+// console.log(string.toUpperCase());
+
+// let string = "MY NAME IS ABUBAKAR"
+// console.log(string.indexOf("ABUBAKAR"));
+
+// let string = "my name is abubakar"
+// console.log(string.startsWith("my"));
+
+// function testNum(a) {
+//     let result;
+//     if (a > 0) {
+//       result = 'positive';
+//     } else {
+//       result = 'NOT positive';
+//     }
+//     return result;
+//   }
+  
+//   console.log(testNum(-5));
+
+const pet = "dog";
+ 
+switch (pet) {
+  case "lizard":
+    console.log("I own a lizard");
+    break;
+  case "dog":
+    console.log("I own a dog");
+    break;
+  case "cat":
+    console.log("I own a cat");
+    break;
+  case "snake":
+  default:
+    console.log("I don't own a pet");
+    break;
+}
 
 
 
